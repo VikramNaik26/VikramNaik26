@@ -25,18 +25,21 @@
 
 ###
 
-<h4 align="center">Some technologies I like working with, aka skills</h4>
+<p align="left"></p>
+
+<h4 align="left">Some technologies I like working with</h4>
 
 ```
 
 let skills = {
   "webDev": {
-    "frontend": [ "javascript", "typescript", "reactjs", "nextjs", "html", "css|tailwindcss|bootstrap|sass|mui", "gsap", "redux|valtio", "react-query" ],
+    "frontend": [ "javascript", "typescript", "reactjs", "nextjs", "html",
+                  "css|tailwindcss|bootstrap|sass|mui", "gsap", "redux|valtio", "react-query" ],
     "backend": [ "nodejs", "expressjs", "firebase", "mongodb|mysql|postgres", "prisma" ],
     "cms": [ "prismic" ]
   },
   "appDev": {
-    "frontend": [ "flutter", "dart" ],
+    "frontend": [ "flutter", "dart", "bloc" ],
     "backend": [ "firebase" ]
   },
   "additional": [ "vim|neovim", "figma", "linux", "git" ]
