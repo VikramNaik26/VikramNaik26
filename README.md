@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Vikram Naik</h2>
+<h2 align="left">Hi 👋, I'm Vikram Naik</h2>
 
 ###
 
-<h3 align="center">Full Stack Web & App Developer</h3>
+<h3 align="left">Full Stack Web & App Developer</h3>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="center">Connect With Me</h4>
+<h4 align="left">Connect With Me</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://twitter.com/Vikram_Naik_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="28" alt="twitter logo"  />
   </a>
