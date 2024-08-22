@@ -35,12 +35,12 @@ let skills = {
   "webDev": {
     "frontend": [ "javascript", "typescript", "reactjs", "nextjs", "html",
                   "css|tailwindcss|bootstrap|sass|mui", "gsap", "redux|valtio", "react-query" ],
-    "backend": [ "nodejs", "expressjs", "firebase", "mongodb|mysql|postgres", "prisma" ],
+    "backend": [ "nodejs", "java", "expressjs", "springboot", "firebase", "mongodb|mysql|postgres", "prisma" ],
     "cms": [ "prismic" ]
   },
   "appDev": {
-    "frontend": [ "flutter", "dart", "bloc" ],
-    "backend": [ "firebase" ]
+    "frontend": [ "dart", "flutter" ],
+    "backend": [ "firebase", "supabase" ]
   },
   "additional": [ "vim|neovim", "figma", "linux", "git" ]
 }
