@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="left">My Coding Journey</h3>
-
-###  
-
-<p align="left"> I don't even know why I started with Python and SQL—no laptop, just pure curiosity! Then came HTML and CSS, and boom 💥, I was hooked! The excitement of building something with just a few lines of code was too cool to ignore. Fast forward, and here I am, deep into full stack development. I've wrangled a bunch of libraries, frameworks, and languages along the way, and now, the world of web and app dev is my playground! </p>
-
-###
-
 <h4 align="left">Connect With Me</h4>
 
 ###
